@@ -1,0 +1,3 @@
+apiKey = "";
+
+module.exports = apiKey;
